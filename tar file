@@ -1,0 +1,16 @@
+PS C:\Users\joeax> scp joeax@192.168.56.102:joeaxberg_phpcrudecrud.tar.gz .
+joeax@192.168.56.102's password:
+joeaxberg_phpcrudecrud.tar.gz                                                                         100%  126KB  24.9MB/s   00:00
+
+PS C:\Users\joeax> ls joeaxberg_*
+
+
+    Directory: C:\Users\joeax
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         3/20/2023   3:07 PM         129016 joeaxberg_phpcrudecrud.tar.gz
+
+
+PS C:\Users\joeax>
